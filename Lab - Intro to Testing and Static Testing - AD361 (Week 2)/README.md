@@ -1,1 +1,1 @@
-*Lab - Intro to Testing and Static Testing*
+**Lab - Intro to Testing and Static Testing**
